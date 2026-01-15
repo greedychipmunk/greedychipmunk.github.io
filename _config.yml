@@ -31,9 +31,10 @@ github_username:  greedychipmunk
 
 # Build settings
 # theme: minima
-theme: dinky
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+  - jekyll-timeago
 
 # Exclude from processing.
 # The following items will not be processed, by default.
