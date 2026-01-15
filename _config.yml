@@ -31,7 +31,7 @@ github_username:  greedychipmunk
 
 # Build settings
 # theme: minima
-theme: dinky
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
