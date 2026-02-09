@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Prompts"
+permalink: /prompts/
+---
+
 # Prompts
 
 ## Useful and effective prompt ideas
